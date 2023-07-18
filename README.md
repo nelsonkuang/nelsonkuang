@@ -1,5 +1,5 @@
 Work as a Frontend Developer, but loves Computer Graphis   
-【 Opengl, Webgl, Glsl, Webgpu 】   
+【 Opengl, Webgl, Glsl, Webgpu, Blender 】   
 【 Javascript & C++ 】
 
 - My Shadertoy: https://www.shadertoy.com/user/nelsonkuang
