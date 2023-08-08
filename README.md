@@ -1,4 +1,4 @@
-Work as a Frontend Developer, but loves Computer Graphis   
+Work as a Frontend Developer, but loves Computer Graphics   
 【 Opengl, Webgl, Glsl, Webgpu, Blender 】   
 【 Javascript & C++ 】
 
