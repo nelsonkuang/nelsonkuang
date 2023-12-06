@@ -1,4 +1,4 @@
-Work as a Frontend Developer, but loves Computer Graphics   
+Work as a Frontend Developer, but love Computer Graphics   
 【 Javascript x C++ 】【C++ => WebAssembly + Javascript => Awesome Web】   
 【 Opengl, Webgl, Glsl, Shader, Webgpu, Qt, Blender 】   
 
