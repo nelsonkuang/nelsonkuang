@@ -4,3 +4,4 @@ Work as a Frontend Developer, but love Computer Graphics
 - Blog #1: https://www.a4z.cn/fe/
 - Blog #2: https://www.kt5.cn/fe/
 - Blog old: https://www.cnblogs.com/fastmover/
+- Email: [Contact Me](mailto:kbl_1794@qq.com)
