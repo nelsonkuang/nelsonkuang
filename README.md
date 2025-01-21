@@ -9,3 +9,6 @@ Work as a Frontend Developer, but love Computer Graphics
 - Blog #2: https://www.kt5.cn/fe/
 - Blog old: https://www.cnblogs.com/fastmover/
 - Email: [Contact Me](mailto:kbl_1794@qq.com)
+
+---
+I hope to witness the realization of `Controlled Nuclear Fusion`, `Artificial General Intelligence`, `Human Immortality Technology`, and `Mars migration` within my lifetime.
