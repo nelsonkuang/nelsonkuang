@@ -11,4 +11,4 @@ Work as a Frontend Developer, but love Computer Graphics
 - Email: [Contact Me](mailto:kbl_1794@qq.com)
 
 ---
-I hope to witness the realization of `Controlled Nuclear Fusion`, `Artificial General Intelligence`, `Human Immortality Technology`, and `Mars migration` within my lifetime.
+I hope to witness the realization of `Controlled Nuclear Fusion`, `Artificial General Intelligence`, `Human Immortality Technology`, and `Mars Migration` within my lifetime.
